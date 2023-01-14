@@ -762,7 +762,7 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 0;
+  /* padding-top: 0; */
 }
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
